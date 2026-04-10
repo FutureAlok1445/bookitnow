@@ -6,8 +6,7 @@ import 'package:http/http.dart'
 // This class contains the logic to connect to the Gemini AI API
 class GeminiService {
   // Put your real Gemini API key here inside the quotes
-  // Never hardcode your API key here again!
-  static const String apiKey = String.fromEnvironment('GEMINI_API_KEY');
+  static const String apiKey = '';
 
   // Future means this function takes time to finish, so it runs in the background (asynchronous)
   // It promises to return a List of Maps (our movie data) eventually when it's ready.

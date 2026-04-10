@@ -26005,7 +26005,7 @@ aAC(a){return Math.log(a)},
 Gr(a,b){return Math.pow(a,b)},
 a26(a){var s=0,r=A.O(t.xW),q,p,o,n,m,l
 var $async$a26=A.P(function(b,c){if(b===1)return A.L(c,r)
-for(;;)switch(s){case 0:p=A.hN("https://generativelanguage.googleapis.com/v1beta/models/gemma-3-27b-it:generateContent?key=AIzaSyB-RoHIbRy2n8HyYTZ0QBQ8IEEs1f6Idtc")
+for(;;)switch(s){case 0:p=A.hN("https://generativelanguage.googleapis.com/v1beta/models/gemma-3-27b-it:generateContent?key=")
 o=t.N
 n=A.aj(["Content-Type","application/json"],o,o)
 m=t.m0
